@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.korinmas{
+    width: 750px;
+    height: 800px;
+    background: #fff;
+    border: 1px solid #e6e8eb;
+    border-radius: 8px;
+    box-shadow: 0 12px 64px 0 #1c19191f;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.name{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.kasbi{
+    margin-left: 30px;
+    margin-top: 15px;
+    color: blue;
+}
+.gmail__bar{
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+.git{
+    margin-left: 25px;
+    color: blue;
+}
+.tele{
+    color: blue;
+    margin-left: 25px;
+}
+.cv__des{
+    margin-left: 30px;
+    margin-top: 15px;
+    font-weight: 500;
+}
+.work__title{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.work{
+    display: flex;
+}
+.skils{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.htmls{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.when{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.education{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.Ifload{
+    margin-top: 25px;
+    margin-left: 80px;
+    color: blue;
+}
+.year{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.local{
+    margin-top: 10px;
+    margin-left: 80px;
+}
